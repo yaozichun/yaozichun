@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center"> 
+  <h1>Hi I am YaoZiChun 👋</h1>
+</div>
+
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=yaozichun" /> 
+</div>
 
 <!--
 **yaozichun/yaozichun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
